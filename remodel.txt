@@ -1,0 +1,18 @@
+Granite Countertop|80.0|60.00|0
+Marble Countertop|60.0|45.00|1
+Butcher Block Countertop|24.0|18.00|0
+Laminate Countertop|17.5|15.00|0
+Quartz Countertop|42.5|39.00|0
+Marble Countertop|102.5|87.90|0
+Concrete Countertop|75.0|60.00|0
+Hardwood Flooring|14.0|12.00|0
+Laminate Flooring|7.5|5.50|0
+Vinyl Flooring|6.5|5.00|0
+Concrete Flooring|9.0|6.50|2
+Ceramic Flooring|2.75|1.50|0
+Paint|5.0|3.00|2
+Ceramic Tile Backsplash|2.0|1.50|1
+Stone Backsplash|8.5|6.50|0
+Glass Backsplash|18.5|16.00|0
+Porcelain Backsplash|4.0|2.00|0
+Stainless Steel Backsplash|20.0|15.00|0

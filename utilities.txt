@@ -1,0 +1,6 @@
+Fridge|1000.0|800.00|4
+Stove|1000.0|800.00|5
+Dishwasher|970.0|700.00|0
+Laminate Cabinets|9400.0|8000.00|0
+Wood Cabinets|15000.0|10000.00|0
+Wood-based Cabinets|8500.0|6500.00|0
